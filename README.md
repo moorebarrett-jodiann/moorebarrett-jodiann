@@ -32,6 +32,6 @@ In my IT career of over 7 years, I have held roles in Software Development and D
 My programming experience includes C, C++, JavaScript, PHP and JQuery, and my DevOps experience includes Microsoft Azure, 
 Kubernetes, Linux server maintenance and application support and troubleshooting.
 
-I'm currently pursuing a full-time Software Development Post-Grad Diploma at MITT Winnipeg with the aim of landing a Senior Full-Stack Developer at a great company.
+I'm currently pursuing a full-time Software Development Post-Grad Diploma at MITT Winnipeg with the aim of landing a Senior Full-Stack Developer position at a great company.
 
 Get in touch. I look forward to hearing from you!
