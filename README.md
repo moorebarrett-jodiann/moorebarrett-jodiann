@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **moorebarrett-jodiann/moorebarrett-jodiann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About me
+### Hi There 👋
 
-Hi! I'm Jodi-Ann Barrett, a Software Developer born and raised in Kingston, Jamaica, currently based in Winnipeg, Canada.
+![Photo by <a href="https://unsplash.com/@lucabravo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luca Bravo</a> on <a href="https://unsplash.com/s/photos/technology?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  ](src/images/luca-bravo-XJXWbfSo2f0-unsplash.jpg "Code Window")
+
+## About me 😄
+
+Name: Jodi-Ann Moore-Barrett
+Pronouns: she/her
+
+I am a Software Developer born and raised in Kingston, Jamaica, currently based in Winnipeg, Canada.
 
 I'm a passionate IT professional with a keen eye for detail and a fast, lifelong learner. I enjoy watching a wide varity of movies and documentaries and crossroad trips to enjoy the beautiful scenery of nature and life.
 
@@ -26,4 +32,4 @@ In my IT career of over 7 years, I have held roles in Software Development and D
 My programming experience includes C, C++, JavaScript, PHP and JQuery, and my DevOps experience includes Microsoft Azure, 
 Kubernetes, Linux server maintenance and application support and troubleshooting.
 
-Get in touch. I look forward to hearing from you.
+Get in touch. I look forward to hearing from you!
