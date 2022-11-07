@@ -35,3 +35,23 @@ Kubernetes, Linux server maintenance and application support and troubleshooting
 I'm currently pursuing a full-time Software Development Post-Grad Diploma at MITT Winnipeg with the aim of landing a Senior Full-Stack Developer position at a great company.
 
 Get in touch. I look forward to hearing from you!
+
+### My skills
+
+![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=51be8d)
+![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=51be8d)
+
+##
+
+### My stats
+
+<a href="https://github.com/morebarrett-jodiann">
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api?username=moorebarrett-jodiann&theme=vue&show_icons=true" alt="My GitHub stats" />
+</a>
+<a href="https://github.com/moorebarrett-jodiann">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrespecht&theme=vue&hide=Ruby&show_icons=true&langs_count=3" alt="My 
+  GitHub stats"/>
+</a>
+
