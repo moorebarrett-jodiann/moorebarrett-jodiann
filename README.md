@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## About me 😄
 
-Name: Jodi-Ann Moore-Barrett
+Name: Jodi-Ann Moore-Barrett (:jamaica: / :canada:)
 
 Pronouns: she/her
 
