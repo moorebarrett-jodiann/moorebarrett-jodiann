@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Name: Jodi-Ann Moore-Barrett
 
-Pronouns: she/her
+Pronouns: She / Her
 
 I am a Software Developer born and raised in Kingston, Jamaica, currently based in Winnipeg, Canada.
 
