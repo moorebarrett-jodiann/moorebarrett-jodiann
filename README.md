@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - Current full-time student in the Software Development Post-Grad Program at the Manitoba Institute of Trades and Technology in Winnipeg, Canada.
 - A passionate IT professional with a keen eye for detail and a fast learner.
 - 7-years career in Software Development and DevOps.
-- Collaborative Team player and experienced leader.
+- Collaborative team player and experienced leader.
 
 #### My Technical Skills
 
