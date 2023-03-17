@@ -13,41 +13,45 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi There 👋
 
 ![Photo by <a href="https://unsplash.com/@lucabravo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luca Bravo</a> on <a href="https://unsplash.com/s/photos/technology?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   ](src/images/luca-bravo-XJXWbfSo2f0-unsplash.jpg "Code Window")
 
-## About me 😄
+## Hi There, 👋 I'm Jodi 😀
 
-Name: Jodi-Ann Moore-Barrett
+😊 Pronouns: She/Her
+💬 Dream Job: Senior Full-Stack Software Developer
+⚡ Fun fact: I love cross-country road trips and trivia nights
 
-Pronouns: she/her
+## About Me
+- Current full-time student in the Software Development Post-Grad Program at the Manitoba Institute of Trades and Technology in Winnipeg, Canada.
+- A passionate IT professional with a keen eye for detail and a fast learner.
+- 7-years career in Software Development and DevOps.
+- Collaborative Team player and experienced leader.
 
-I am a Software Developer born and raised in Kingston, Jamaica, currently based in Winnipeg, Canada.
+#### My Technical Skills
 
-I'm a passionate IT professional with a keen eye for detail and a fast, lifelong learner. I enjoy watching a wide varity of movies and documentaries and crossroad trips to enjoy the beautiful scenery of nature and life.
+`Back-End`
+![](https://img.shields.io/badge/C%23-38B2AC?style=for-the-badge&logo=c-sharp&logoColor=white)![](https://img.shields.io/badge/PHP-38B2AC?style=for-the-badge&logo=php&logoColor=white)![](https://img.shields.io/badge/java-38B2AC?style=for-the-badge&logo=java&logoColor=white)
 
-In my IT career of over 7 years, I have held roles in Software Development and DevOps.
+`Front-End`
+![](https://img.shields.io/badge/html5-38B2AC?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/css3-38B2AC?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/JavaScript-38B2AC?style=for-the-badge&logo=javascript&logoColor=white)
 
-My programming experience includes C, C++, JavaScript, PHP and JQuery, and my DevOps experience includes Microsoft Azure, 
-Kubernetes, Linux server maintenance and application support and troubleshooting.
+`Database`
+![](https://img.shields.io/badge/Microsoft_SQL_Server-38B2AC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)![](https://img.shields.io/badge/MongoDB-38B2AC?style=for-the-badge&logo=mongodb&logoColor=white)![](https://img.shields.io/badge/MySQL-38B2AC?style=for-the-badge&logo=mysql&logoColor=white)![](https://img.shields.io/badge/Oracle-38B2AC?style=for-the-badge&logo=Oracle&logoColor=white)
 
-I'm currently pursuing a full-time Software Development Post-Grad Diploma at MITT Winnipeg with the aim of landing a Senior Full-Stack Developer position at a great company.
+`Cloud` 
+![](https://img.shields.io/badge/Azure_DevOps-38B2AC?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-Get in touch. I look forward to hearing from you!
+`Frameworks & Libraries`
+![](https://img.shields.io/badge/.NET-38B2AC?style=for-the-badge&logo=dotnet&logoColor=white)![](https://img.shields.io/badge/Apache-38B2AC?style=for-the-badge&logo=Apache&logoColor=white)![](https://img.shields.io/badge/firebase-38B2AC?style=for-the-badge&logo=firebase&logoColor=white)![](https://img.shields.io/badge/kubernetes-38B2AC.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)![](https://img.shields.io/badge/Node.js-38B2AC?style=for-the-badge&logo=nodedotjs&logoColor=white)![](https://img.shields.io/badge/npm-38B2AC?style=for-the-badge&logo=npm&logoColor=white)![](https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white)![](https://img.shields.io/badge/Sass-38B2AC?style=for-the-badge&logo=sass&logoColor=white)![](https://img.shields.io/badge/Xampp-38B2AC?style=for-the-badge&logo=xampp&logoColor=white)
 
-### My skills
+`IDE`
+![](https://img.shields.io/badge/VSCode-38B2AC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![](https://img.shields.io/badge/Visual_Studio-38B2AC?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
-![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=fb9505)
-![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=fb9505)
-![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=fb9505)
-![](https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=fb9505)
+`Workflow`
+![](https://img.shields.io/badge/Jira-38B2AC?style=for-the-badge&logo=Jira&logoColor=white)
 
-##
+#### My Stats
 
-### My stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moorebarrett-jodiann&theme=highcontrast)](https://git.io/streak-stats)
-
-##
+[![GitHub Streak](https://streak-stats.demolab.com?user=moorebarrett-jodiann&theme=nightowl)](https://git.io/streak-stats)
