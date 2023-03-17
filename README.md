@@ -32,24 +32,31 @@ Here are some ideas to get you started:
 #### My Technical Skills
 
 `Back-End`
+
 ![](https://img.shields.io/badge/C%23-38B2AC?style=for-the-badge&logo=c-sharp&logoColor=white)![](https://img.shields.io/badge/PHP-38B2AC?style=for-the-badge&logo=php&logoColor=white)![](https://img.shields.io/badge/java-38B2AC?style=for-the-badge&logo=java&logoColor=white)
 
 `Front-End`
+
 ![](https://img.shields.io/badge/html5-38B2AC?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/css3-38B2AC?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/JavaScript-38B2AC?style=for-the-badge&logo=javascript&logoColor=white)
 
 `Database`
+
 ![](https://img.shields.io/badge/Microsoft_SQL_Server-38B2AC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)![](https://img.shields.io/badge/MongoDB-38B2AC?style=for-the-badge&logo=mongodb&logoColor=white)![](https://img.shields.io/badge/MySQL-38B2AC?style=for-the-badge&logo=mysql&logoColor=white)![](https://img.shields.io/badge/Oracle-38B2AC?style=for-the-badge&logo=Oracle&logoColor=white)
 
 `Cloud` 
+
 ![](https://img.shields.io/badge/Azure_DevOps-38B2AC?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 `Frameworks & Libraries`
+
 ![](https://img.shields.io/badge/.NET-38B2AC?style=for-the-badge&logo=dotnet&logoColor=white)![](https://img.shields.io/badge/Apache-38B2AC?style=for-the-badge&logo=Apache&logoColor=white)![](https://img.shields.io/badge/firebase-38B2AC?style=for-the-badge&logo=firebase&logoColor=white)![](https://img.shields.io/badge/kubernetes-38B2AC.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)![](https://img.shields.io/badge/Node.js-38B2AC?style=for-the-badge&logo=nodedotjs&logoColor=white)![](https://img.shields.io/badge/npm-38B2AC?style=for-the-badge&logo=npm&logoColor=white)![](https://img.shields.io/badge/React-38B2AC?style=for-the-badge&logo=react&logoColor=white)![](https://img.shields.io/badge/Sass-38B2AC?style=for-the-badge&logo=sass&logoColor=white)![](https://img.shields.io/badge/Xampp-38B2AC?style=for-the-badge&logo=xampp&logoColor=white)
 
 `IDE`
+
 ![](https://img.shields.io/badge/VSCode-38B2AC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![](https://img.shields.io/badge/Visual_Studio-38B2AC?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 `Workflow`
+
 ![](https://img.shields.io/badge/Jira-38B2AC?style=for-the-badge&logo=Jira&logoColor=white)
 
 #### My Stats
