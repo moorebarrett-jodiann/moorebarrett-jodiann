@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Hi There, 👋 I'm Jodi 😀
 
 - 😊 Pronouns: She/Her
-- 💬 Dream Job: Senior Full-Stack Software Developer
+- 💬 Dream Job: Senior Full-Stack Software Developer. Also interested in developing an expertise in Cyber-Security.
 - ⚡ Fun fact: I love cross-country road trips and trivia nights
 
 ## About Me
