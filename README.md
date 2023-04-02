@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 😊 Pronouns: She/Her
 - 💬 Dream Job: I don't know about you... but I don't dream about working 😆😆
-- 💻 Career Goal: Senior Full-Stack Software Developer with a specialization in Cyber-Security.
+- 💻 Career Goal: Senior Full-Stack Software Developer with a specialization in Cloud DevOps.
 - 🎲 Favourite Games: Trivia, Bowling, Board Games, Charades... and more 😁
 
 ## About Me
