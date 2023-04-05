@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 - 🎲 Favourite Games: Trivia, Bowling, Board Games, Charades... and more 😁
 
 ## About Me
-- Current full-time student in the Software Development Post-Grad Program at the Manitoba Institute of Trades and Technology in Winnipeg, Canada.
-- Bachelor of Science in Computer Science
-- A passionate IT professional with a keen eye for detail and a fast learner.
-- 7-years career in Software Development and DevOps.
-- Collaborative team player and experienced leader.
+- 👩‍🎓 Current Software Development student at the Manitoba Institute of Trades and Technology in Winnipeg, Canada.
+- ⭐ Bachelor of Science in Computer Science
+- 🧐 A passionate IT professional with a keen eye for detail and a fast learner.
+- 🤓 A 7-year career in Software Development and DevOps.
+- 🤝 Collaborative team player and experienced leader.
 
 #### My Technical Skills
 
