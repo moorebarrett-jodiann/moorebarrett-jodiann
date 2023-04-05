@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 `IDE`
 
-![](https://img.shields.io/badge/VSCode-38B2AC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![](https://img.shields.io/badge/Visual_Studio-38B2AC?style=for-the-badge&logo=visual%20studio&logoColor=white)![](https://img.shields.io/badge/sublime-38B2AC?style=for-the-badge&logo=sublime-text&logoColor=white)
+![](https://img.shields.io/badge/VSCode-38B2AC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)![](https://img.shields.io/badge/Visual_Studio-38B2AC?style=for-the-badge&logo=visual%20studio&logoColor=white)![](https://img.shields.io/badge/sublime-38B2AC?style=for-the-badge&logo=sublime-text&logoColor=white)![](https://img.shields.io/badge/Eclipse-38B2AC?style=for-the-badge&logo=eclipse&logoColor=white)
 
 `Workflow`
 
