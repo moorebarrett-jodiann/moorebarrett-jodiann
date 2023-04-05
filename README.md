@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ![Banner](./src/images/banner.png?raw=true "Banner")
 
-<p>
-  <a href="https://www.linkedin.com/in/jodiannmoorebarrett/">  Let's Connect!
-    <img align="right" src="./src/images/linkedin.png" alt="linkedin-icon" height="21px" width="21px"/>
+<p align="right">
+  <a href="https://www.linkedin.com/in/jodiannmoorebarrett/"> Let's Connect!
+    <img style="margin-left:10px;" align="right" src="./src/images/linkedin.png" alt="linkedin-icon" height="21px" width="21px"/>
   </a>
 </p>
 
