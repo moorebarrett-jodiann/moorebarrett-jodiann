@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 
 ![Banner](./src/images/banner.png?raw=true "Banner")
 
-<div style="width:100%;display:flex;justify-content: flex-end;">  
-  <a style="width:100%" align="right" style="display:flex;" href="https://www.linkedin.com/in/jodiannmoorebarrett/">
-    <p float="left" style="margin-right: 10px;">Let's Connect!</p><img float="left" align="right" src="./src/images/linkedin.png" alt="linkedin-icon" height="21px" width="21px"/>
-  </a>
-</div>
+<a style="display:flex;" href="https://www.linkedin.com/in/jodiannmoorebarrett/">
+  <p style="margin-right: 10px;">Let's Connect!</p><img align="right" src="./src/images/linkedin.png" alt="linkedin-icon" height="21px" width="21px"/>
+</a>
 
 ## Hi There, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>😀
 
