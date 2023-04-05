@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![Photo by <a href="https://unsplash.com/@lucabravo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luca Bravo</a> on <a href="https://unsplash.com/s/photos/technology?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  ](src/images/luca-bravo-XJXWbfSo2f0-unsplash.jpg "Code Window")
+![Banner](./src/images/banner.png?raw=true "Banner")
 
 ## Hi There, 👋 I'm Jodi 😀
 
