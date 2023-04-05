@@ -20,14 +20,16 @@ Here are some ideas to get you started:
 ## Hi There, 👋 I'm Jodi 😀
 
 - 😊 Pronouns: She/Her
-- 💬 Dream Job: Senior Full-Stack Software Developer
-- ⚡ Fun fact: I love cross-country road trips and trivia nights
+- 💬 Dream Job: I don't know about you... but I don't dream about working 😆😆
+- 💻 Career Goal: Senior Full-Stack Software Developer with a specialization in Cloud DevOps.
+- 🎲 Favourite Games: Trivia, Bowling, Board Games, Charades... and more 😁
 
 ## About Me
 - Current full-time student in the Software Development Post-Grad Program at the Manitoba Institute of Trades and Technology in Winnipeg, Canada.
+- Bachelor of Science in Computer Science
 - A passionate IT professional with a keen eye for detail and a fast learner.
 - 7-years career in Software Development and DevOps.
-- Collaborative Team player and experienced leader.
+- Collaborative team player and experienced leader.
 
 #### My Technical Skills
 
