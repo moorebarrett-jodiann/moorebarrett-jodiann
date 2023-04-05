@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 
 #### My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=moorebarrett-jodiann&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=moorebarrett-jodiann&theme=highcontrast)](https://git.io/streak-stats)
