@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 `Back-End`
 
-![](https://img.shields.io/badge/C%23-38B2AC?style=for-the-badge&logo=c-sharp&logoColor=white)![](https://img.shields.io/badge/PHP-38B2AC?style=for-the-badge&logo=php&logoColor=white)![](https://img.shields.io/badge/java-38B2AC?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/C%23-38B2AC?style=for-the-badge&logo=c-sharp&logoColor=white)![](https://img.shields.io/badge/PHP-38B2AC?style=for-the-badge&logo=php&logoColor=white)
 
 `Front-End`
 
