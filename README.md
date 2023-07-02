@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 `Workflow`
 
-![](https://img.shields.io/badge/Jira-38B2AC?style=for-the-badge&logo=Jira&logoColor=white)
+![](https://img.shields.io/badge/Jira-38B2AC?style=for-the-badge&logo=Jira&logoColor=white)![](https://img.shields.io/badge/Asana-38B2AC?style=for-the-badge&logo=Asana&logoColor=white)
 
 #### My Stats
 
