@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 - 🎲 Favourite Games: Trivia, Bowling, Board Games, Charades... and more 😁
 
 ## About Me
-- 👩‍🎓 Current Software Development student at the Manitoba Institute of Trades and Technology in Winnipeg, Canada.
+- 👩‍🎓 Software Developer based in Winnipeg, Canada.
 - ⭐ Bachelor of Science in Computer Science
 - 🧐 A passionate IT professional with a keen eye for detail and a fast learner.
-- 🤓 A 7-year career in Software Development and DevOps.
+- 🤓 7+ years in Software Development and DevOps.
 - 🤝 Collaborative team player and experienced leader.
 
 #### My Technical Skills
